@@ -1,0 +1,5 @@
+c:\users\cognex\documents\visual studio 2015\Projects\Socket\Socket\bin\Release\Socket.exe.config
+c:\users\cognex\documents\visual studio 2015\Projects\Socket\Socket\bin\Release\Socket.exe
+c:\users\cognex\documents\visual studio 2015\Projects\Socket\Socket\bin\Release\Socket.pdb
+c:\users\cognex\documents\visual studio 2015\Projects\Socket\Socket\obj\Release\Socket.exe
+c:\users\cognex\documents\visual studio 2015\Projects\Socket\Socket\obj\Release\Socket.pdb

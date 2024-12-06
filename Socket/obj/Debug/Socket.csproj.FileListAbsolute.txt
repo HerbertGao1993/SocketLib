@@ -1,0 +1,10 @@
+c:\users\cognex\documents\visual studio 2015\Projects\Socket\Socket\bin\Debug\Socket.exe.config
+c:\users\cognex\documents\visual studio 2015\Projects\Socket\Socket\bin\Debug\Socket.exe
+c:\users\cognex\documents\visual studio 2015\Projects\Socket\Socket\bin\Debug\Socket.pdb
+c:\users\cognex\documents\visual studio 2015\Projects\Socket\Socket\obj\Debug\Socket.exe
+c:\users\cognex\documents\visual studio 2015\Projects\Socket\Socket\obj\Debug\Socket.pdb
+C:\Users\cognex\Documents\Visual Studio 2015\Projects\Socket\Socket\obj\Debug\Socket.csprojResolveAssemblyReference.cache
+C:\Users\cognex\Documents\Visual Studio 2015\Projects\Socket Lib\Socket\bin\Debug\Socket.exe.config
+C:\Users\cognex\Documents\Visual Studio 2015\Projects\Socket Lib\Socket\obj\Debug\Socket.exe
+C:\Users\cognex\Documents\Visual Studio 2015\Projects\Socket Lib\Socket\obj\Debug\Socket.pdb
+C:\Users\cognex\Documents\Visual Studio 2015\Projects\Socket Lib\Socket\bin\Debug\SocketLib.exe.config
